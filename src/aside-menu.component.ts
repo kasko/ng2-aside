@@ -26,7 +26,6 @@ import {DomSanitizer, SafeStyle} from '@angular/platform-browser';
         '[class.aside-right]' : '_asideRight'
     },
     styles: [`.aside-menu{
-                        background-color: #28374f;
                         position: absolute;
                         top: 0;
                         bottom: 0;
